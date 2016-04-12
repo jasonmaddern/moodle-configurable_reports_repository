@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040119"><visible><![CDATA[1]]></visible>
+<name><![CDATA[ID's]]></name>
+<summary><![CDATA[<p>Additional ID's</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MjUxOiJzZWxlY3QrZGlzdGluY3QrbmF2aWdhdGVpZCUyQytzdHVkZW50Y29kZSUyQytwYXJ0bmVyY29kZSthcyslMjd1bml2ZXJzaXR5aWQlMjclMkMrZmlyc3RuYW1lJTJDK2xhc3RuYW1lJTJDK2VtYWlsJTJDKyUyNyUyNythcyslMjd3ZWVrMSUyNyUyQyslMjclMjcrYXMrJTI3d2VlazIlMjcrZnJvbStwcmVmaXhfbmF2aW50X3VzZXIlMEQlMEFvcmRlcitieStsYXN0bmFtZSUyQytmaXJzdG5hbWUlMkMrc3R1ZGVudGNvZGUlMkMrbmF2aWdhdGVpZCI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[9]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
